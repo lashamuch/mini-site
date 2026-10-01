@@ -1,0 +1,1 @@
+'git revert' when I want to undo a mistake on a shared branch as it creates a new commit that safely undoes the changes without erasing history. 'git reset' on my own local work, as it rewrites history by moving the branch backward and can cause issues for others.
